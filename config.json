@@ -1,0 +1,11 @@
+{
+  "mode": "debug",
+  "port": 8180,
+  "log": {
+    "level": "debug",
+    "filename": "app.log",
+    "maxsize": 200,
+    "max_age": 7,
+    "max_backups": 10
+  }
+}
